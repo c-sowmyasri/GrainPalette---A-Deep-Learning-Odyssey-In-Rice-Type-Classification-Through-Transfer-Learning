@@ -1,0 +1,14 @@
+rice-env/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.dll
+*.lib
+*.pdb
+*.whl
+*.ipynb_checkpoints/
+uploads/
+.DS_Store
