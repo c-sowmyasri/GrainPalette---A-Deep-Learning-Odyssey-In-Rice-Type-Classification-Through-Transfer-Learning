@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 8a414559dca248db2966aea0eb7cea00156b8bb6 Munawar-Hussain4 <kattubadimunawar3@gmail.com> 1751028345 +0530	commit (initial): Initial commit - Rice type classification app
+8a414559dca248db2966aea0eb7cea00156b8bb6 0000000000000000000000000000000000000000 Munawar-Hussain4 <kattubadimunawar3@gmail.com> 1751028537 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 8a414559dca248db2966aea0eb7cea00156b8bb6 Munawar-Hussain4 <kattubadimunawar3@gmail.com> 1751028537 +0530	Branch: renamed refs/heads/master to refs/heads/main
+8a414559dca248db2966aea0eb7cea00156b8bb6 67773ffc1794b0c2682ca6c7ce15d5fd3be46920 Munawar-Hussain4 <kattubadimunawar3@gmail.com> 1751033188 +0530	commit: Track large model with Git LFS
+67773ffc1794b0c2682ca6c7ce15d5fd3be46920 0000000000000000000000000000000000000000 Munawar-Hussain4 <kattubadimunawar3@gmail.com> 1751070856 +0530	Branch: renamed refs/heads/main to refs/heads/main
+67773ffc1794b0c2682ca6c7ce15d5fd3be46920 67773ffc1794b0c2682ca6c7ce15d5fd3be46920 Munawar-Hussain4 <kattubadimunawar3@gmail.com> 1751070856 +0530	Branch: renamed refs/heads/main to refs/heads/main
+67773ffc1794b0c2682ca6c7ce15d5fd3be46920 96a73313401b4fa6194aae27fbcb513b70481eb8 Munawar-Hussain4 <kattubadimunawar3@gmail.com> 1751071343 +0530	commit: Remove virtual env and add .gitignore
+96a73313401b4fa6194aae27fbcb513b70481eb8 96a73313401b4fa6194aae27fbcb513b70481eb8 Munawar-Hussain4 <kattubadimunawar3@gmail.com> 1751071662 +0530	reset: moving to HEAD
+96a73313401b4fa6194aae27fbcb513b70481eb8 53683d113dc3a1fcf9ee25cccd9d6391c98622c4 Munawar-Hussain4 <kattubadimunawar3@gmail.com> 1751071659 +0530	filter-branch: rewrite
